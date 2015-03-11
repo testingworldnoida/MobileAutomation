@@ -23,6 +23,7 @@ public class A {
 		wk.write(fo);
 		fo.flush();
 		fo.close();
+		System.out.println("Changes Made");
 	}
 	
 	
